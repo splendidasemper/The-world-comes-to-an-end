@@ -1,0 +1,136 @@
+body{
+  background-color: pink;
+  font-family: futura, sans-serif;
+  text-align: center;
+
+}
+
+.yala{
+  background-color: skyblue;
+  width: 500px;
+  position: fixed;
+}
+
+h1{
+
+  display: inline-block;
+  color: white
+
+
+
+}
+
+.atom {
+  height: 500px;
+  width: 500px;
+  position: absolute;
+  left: 50%;
+}
+
+.yoyo{
+  height: 200px;
+  width: 600px;
+  background-color: white;
+  position: absolute;
+  top:200px;
+}
+
+p{
+
+  color: darkblue;
+
+}
+
+.blumen{
+  position: absolute;
+  left: 0;
+  top: 300px;
+  width: 400px;
+}
+
+.saudi{
+  position: absolute;
+  top: 1000px;
+  left: 5%;
+}
+
+.lala{
+  height: 100px;
+  width: 100%;
+  background-color: white;
+  position: absolute;
+  top:500px;
+  margin: auto;
+}
+
+.yono{
+  font-size: 6.25em;
+  text-align: center;
+
+
+  width: auto;
+  position: absolute;
+  top: 100px;
+  left: 10%;
+
+}
+
+.nana{
+  height: auto;
+  width: 600px;
+  background-color: white;
+  position: absolute;
+  top:1200px;
+
+}
+
+.x{
+  color: black;
+}
+
+
+.span{
+  color: pink;
+}
+
+.end{
+  color: pink;
+}
+
+.footer{
+  text-align: center;
+  width: 100%;
+  height: 100px;
+  background-color: black;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+
+}
+
+.footcolour{
+  color: pink;
+}
+
+
+.ferg{
+  text-align: center;
+  width: 80%;
+
+  position: absolute;
+  top: 305%;
+
+}
+
+.liberty{
+  text-align: center;
+  margin-left: 10%;
+  margin-right: auto;
+  width: 80%;
+  float: left;
+}
+
+.inner{
+  background-color: white;
+  margin:auto;
+}
